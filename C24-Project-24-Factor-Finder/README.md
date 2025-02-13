@@ -1,6 +1,6 @@
 Factor Finder
 ========================================================
-A number’s factors are any two other num- bers that, when multiplied with each other, produce the number.
+A number’s factors are any two other numbers that, when multiplied with each other, produce the number.
 
 Sample Output
 ========================================================
